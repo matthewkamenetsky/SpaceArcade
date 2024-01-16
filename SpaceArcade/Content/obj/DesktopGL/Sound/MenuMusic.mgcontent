@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/matth/OneDrive/Documents/Projects/SpaceArcade/SpaceArcade/Content/Sound/MenuMusic.mp3</SourceFile>
+  <SourceTime>2023-06-12T23:28:26-04:00</SourceTime>
+  <DestFile>C:/Users/matth/OneDrive/Documents/Projects/SpaceArcade/SpaceArcade/Content/bin/DesktopGL/Sound/MenuMusic.xnb</DestFile>
+  <DestTime>2024-01-07T20:41:13.3057287-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2023-02-06T16:03:06.2614836-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2023-02-06T16:03:06.2614836-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/matth/OneDrive/Documents/Projects/SpaceArcade/SpaceArcade/Content/bin/DesktopGL/Sound/MenuMusic.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
